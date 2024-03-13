@@ -1,7 +1,7 @@
 
 # 📊 *Welcome to Jenn's* Statistics 220 Repository! 📈
 
-This repository is created for the purpose of managing materials, submitting projects and record learning related to Statistics 220 course! 🚀
+This repository in `README.md` format is created for the purpose of managing materials, submitting projects and record learning related to Statistics 220 course! 🚀
 
 ![200w](https://github.com/KatharsisJen/stats220/assets/161776339/cc768631-9d18-4acd-8715-6f50299ce510)
 
